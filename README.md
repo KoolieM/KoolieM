@@ -2,7 +2,7 @@
 
 ### Welcome! 👋
 
-- I'm 23 years old, living in São Leopoldo, Brazil, and currently working at Accruent.
+- 💻 I'm 23 years old, living in São Leopoldo, Brazil and currently working at Accruent.
 
 
 
