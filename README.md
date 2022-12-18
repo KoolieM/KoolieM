@@ -1,6 +1,6 @@
 ## Marcelo Manzke 
 
-# Welcome! 👋
+### Welcome! 👋
 
 <!---
 KoolieM/KoolieM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
