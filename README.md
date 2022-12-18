@@ -1,6 +1,6 @@
 Marcelo Manzke
 
-
+https://www.linkedin.com/in/marcelomanzke/
 
 - 👋 Hi, I’m Marcelo Manzke, 23 years old from Brazil who changed carreers from PE to IT!
 - 💻 Currently working as a Support Agent, studying to work with Flutter & Dart!
