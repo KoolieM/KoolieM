@@ -2,10 +2,8 @@
 
 ### Welcome! 👋
 
-- I'm 23 years old, living in São Leopoldo, Brazil and currently working at Accruent 💻
-- Studying Flutter and Dart language 📚
-- 
-
+- I'm 23 years old, living in São Leopoldo, Brazil
+- Studying C#, SQL and Linux 📚
 
 <!---
 KoolieM/KoolieM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
