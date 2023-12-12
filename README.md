@@ -3,7 +3,7 @@
 ### Welcome! 👋
 
 - I'm 23 years old, living in São Leopoldo, Brazil
-- Studying C#, SQL and Linux 📚
+- Studying C# / Unity Game Development
 
 <!---
 KoolieM/KoolieM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
