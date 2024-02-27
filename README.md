@@ -2,7 +2,7 @@
 
 ### Welcome! 👋
 
-- I'm 23 years old, living in São Leopoldo, Brazil
+- I'm 24 years old, living in São Leopoldo, Brazil
 - Studying C# / Unity Game Development
 
 <!---
